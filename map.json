@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/host148.ik.w-hs.de:81\/"
+                 "value":"host148.ik.w-hs.de:81\/"
                 }],
          "type":"tilelayer",
          "visible":true,
