@@ -73,7 +73,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"CGLab Office Meeting Desk"
+                 "value":"CGLab_Office_Meeting_Desk"
                 }],
          "type":"tilelayer",
          "visible":true,
