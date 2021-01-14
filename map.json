@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/Exit\/exit.json"
+                 "value":"..\/workadventure-cglab\/Exit\/exit.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/Mensa\/mensa.json"
+                 "value":"..\/workadventure-cglab\/Mensa\/mensa.json"
                 }],
          "type":"tilelayer",
          "visible":true,
