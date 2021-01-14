@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/map.json"
+                 "value":"..\/workadventure-cglab\/Mensa\/mensa.json"
                 }],
          "type":"tilelayer",
          "visible":true,
