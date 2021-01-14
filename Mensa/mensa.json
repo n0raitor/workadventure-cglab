@@ -54,7 +54,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/workadventure-cglab\/map.json"
+                 "value":"..\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
