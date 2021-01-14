@@ -55,7 +55,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"CGLab_Office_Meeting_Desk"
+                 "value":"pc_pool_meeting"
                 }],
          "type":"tilelayer",
          "visible":true,
