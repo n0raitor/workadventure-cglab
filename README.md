@@ -1,3 +1,12 @@
+# CGLAB-WorkAdventure Map
+
+visit https://normannator.de/workadventure-cglab/ to join the map. 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
